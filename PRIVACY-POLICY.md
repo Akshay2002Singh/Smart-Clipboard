@@ -1,6 +1,6 @@
 # **Privacy Policy for Smart Clipboard**
 
-_Last updated: 8 dec 2024_
+_Last updated: 24 dec 2024_
 
 Thank you for using **Smart Clipboard** (“the App”).
 This Privacy Policy explains how your data is collected, used, stored, and protected when you use the App.
@@ -27,8 +27,7 @@ If you log in using **Google Sign-In**, we collect minimal information required 
 
 #### Collected Information:
 - Your **Google account ID** (unique user identifier)
-- Your **name** and **email** (provided by Google Sign-In)
-- Your templates, clipboard items, and saved snippets
+- Your templates and clipboard items
 
 #### Purpose:
 - To sync your data across devices
@@ -37,7 +36,7 @@ If you log in using **Google Sign-In**, we collect minimal information required 
 
 ---
 
-## 📌 **3. How We Use Your Information**
+## 📌 **2. How We Use Your Information**
 
 We use your information to:
 - Provide cloud sync for your templates and clipboard items
@@ -51,15 +50,15 @@ We **do NOT**:
 
 ---
 
-## 📌 **4. Data Deletion**
+## 📌 **3. Data Deletion**
 
 You may delete your data at any time.
 
-### **4.1 Local Data**
+### **3.1 Local Data**
 - Delete templates or items manually within the app  
 - Uninstalling the app removes all local data automatically  
 
-### **4.2 Cloud Data (Firebase)**
+### **3.2 Cloud Data (Firebase)**
 Logged-in users can request full deletion of their account data.
 
 You can request deletion:
@@ -71,7 +70,7 @@ Once requested:
 
 ---
 
-## 📌 **5. Third-Party Services Used**
+## 📌 **4. Third-Party Services Used**
 
 The app uses:
 - **Google Sign-In**
@@ -80,7 +79,7 @@ The app uses:
 
 ---
 
-## 📌 **6. Children's Privacy**
+## 📌 **5. Children's Privacy**
 
 Smart Clipboard is **not intended for children under 13**.  
 We do not knowingly collect data from children under 13.
@@ -88,14 +87,14 @@ We do not knowingly collect data from children under 13.
 
 ---
 
-## 📌 **8. Changes to This Privacy Policy**
+## 📌 **6. Changes to This Privacy Policy**
 
 We may update this Privacy Policy occasionally.  
 Changes will be posted with a new “Last Updated” date.
 
 ---
 
-## 📌 **9. Contact Us**
+## 📌 **7. Contact Us**
 
 If you have any questions about this Privacy Policy or want to request data deletion, contact us at:
 

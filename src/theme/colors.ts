@@ -1,0 +1,68 @@
+export const lightColors = {
+  primary: '#6200EE',
+  primaryDark: '#3700B3',
+  primaryLight: '#BB86FC',
+  secondary: '#03DAC6',
+  background: '#FFFFFF',
+  surface: '#F5F5F5',
+  error: '#B00020',
+  text: '#000000',
+  textSecondary: '#757575',
+  disabled: '#BDBDBD',
+  placeholder: '#9E9E9E',
+  divider: '#BDBDBD',
+  card: '#FFFFFF',
+  header: '#F5F5F5',
+  border: '#E0E0E0',
+  priority: {
+    low: '#4CAF50',
+    medium: '#FF9800',
+    high: '#F44336',
+  },
+  category: {
+    work: '#2196F3',
+    personal: '#9C27B0',
+    important: '#F44336',
+    notes: '#FF9800',
+    links: '#4CAF50',
+    shopping: '#9C27B0',
+    other: '#757575',
+    default: '#757575',
+  },
+};
+
+export const darkColors = {
+  primary: '#BB86FC',
+  primaryDark: '#3700B3',
+  primaryLight: '#BB86FC',
+  secondary: '#03DAC6',
+  background: '#121212',
+  surface: '#1E1E1E',
+  error: '#CF6679',
+  text: '#FFFFFF',
+  textSecondary: '#B3B3B3',
+  disabled: '#666666',
+  placeholder: '#808080',
+  divider: '#333333',
+  card: '#1E1E1E',
+  header: '#2A2A2A',
+  border: '#333333',
+  priority: {
+    low: '#66BB6A',
+    medium: '#FFB74D',
+    high: '#EF5350',
+  },
+  category: {
+    work: '#42A5F5',
+    personal: '#BA68C8',
+    important: '#EF5350',
+    notes: '#FFB74D',
+    links: '#66BB6A',
+    shopping: '#BA68C8',
+    other: '#B3B3B3',
+    default: '#B3B3B3',
+  },
+};
+
+export type ThemeColors = typeof lightColors;
+

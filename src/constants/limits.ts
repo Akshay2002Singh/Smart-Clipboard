@@ -1,0 +1,7 @@
+export const APP_LIMITS = {
+  MAX_CLIPBOARD_ITEMS: 50,
+  MAX_TEMPLATE_ITEMS: 30,
+  MAX_CONTENT_LENGTH: 10000, // 10k characters per item
+  MAX_TITLE_LENGTH: 100,
+  MAX_CATEGORY_LENGTH: 30,
+} as const;
